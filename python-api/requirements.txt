@@ -1,0 +1,11 @@
+Flask==2.2.3
+Flask-Compress==1.13
+Flask-Cors==3.0.10
+flask-crontab==0.1.2
+Flask-JWT-Extended==4.4.4
+flask-restplus==0.13.0
+numpy==1.24.2
+requests==2.28.2
+rq==1.12.0
+mysql
+pandas
